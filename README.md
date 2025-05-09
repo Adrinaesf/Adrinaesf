@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Adrinaesf
-- 👀 I’m interested in math and basketball
-- 🌱 I’m currently learning ICS4U course and g12 stuffs for preparation in grade 12 
-- 💞️ I’m looking to apply for Waterloo university
-- 📫 How to reach me is so easy, contact me by email; adrinacad.esf@gmail.com
+- 👋 Hi, I’m Adrina. 
+- I'm a second-year mathematics student at the University of Waterloo. 
+- I like pure math, but alongside, I do programming, and I love to self-teach myself programming skills, because
+- I believe they are a strong tool and knowledge to have alongside my math skills :)
+- How to reach me is so easy, contact me by email: a2esfand@uwaterloo.ca !
 
 <!---
 Adrinaesf/Adrinaesf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
