@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrina. 
 - I'm a second-year mathematics student at the University of Waterloo. 
-- I like pure math, but alongside, I do programming, and I love to self-teach myself programming skills, because
-  I believe they are a strong tool and knowledge to have alongside my math skills :)
+- I like computer science and pure math. I love to self-teach myself programming skills and mathematics, because
+  I believe they are a strong tool alongside each other and can improve my problem-solving abilities :)
 - How to reach me is so easy, contact me by email: a2esfand@uwaterloo.ca !
 
 <!---
